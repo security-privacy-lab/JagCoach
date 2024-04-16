@@ -17,3 +17,5 @@ Pipeline/baseline_15.json
 Student_Videos/
 student_*
 Student_*
+.gitignore
+output.png
