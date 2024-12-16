@@ -17,5 +17,13 @@ Pipeline/baseline_15.json
 Student_Videos/
 student_*
 Student_*
-.gitignore
 output.png
+Pipeline/Baseline_Stats/
+Pipeline/old_student_data/
+Pipeline/__pycache__/
+Pipeline/*.mp4
+Pipeline/*.wav
+Pipeline/*.TextGrid
+Pipeline/*.json
+Pipeline/static/*
+Pipeline/templates/*
